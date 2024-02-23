@@ -1,4 +1,4 @@
-# firewall-server-Handler
+# Firewall-Server-Handler
 The purpose of this repo is to simulate a firewall server handling a malicious event
 
 ## Introduction
