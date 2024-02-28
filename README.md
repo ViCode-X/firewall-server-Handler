@@ -4,7 +4,7 @@ The purpose of this repo is to simulate a firewall server handling a malicious e
 ## Introduction
 
 
-The purpose of this repo is to simulate a firewall server handling a malicious event for [Forage's](https://www.theforage.com) Telstra Cyber virtual experience program.
+The purpose of this repo is to simulate a firewall server handling a malicious event for a Cyber virtual experience program.
 
 
 ## Requirements
